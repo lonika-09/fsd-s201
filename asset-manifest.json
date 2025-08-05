@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/FSD-201/static/css/main.f855e6bc.css",
-    "main.js": "/FSD-201/static/js/main.957f955b.js",
-    "static/js/453.183908db.chunk.js": "/FSD-201/static/js/453.183908db.chunk.js",
-    "static/media/logo.svg": "/FSD-201/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/FSD-201/index.html",
-    "main.f855e6bc.css.map": "/FSD-201/static/css/main.f855e6bc.css.map",
-    "main.957f955b.js.map": "/FSD-201/static/js/main.957f955b.js.map",
-    "453.183908db.chunk.js.map": "/FSD-201/static/js/453.183908db.chunk.js.map"
+    "main.css": "/fsd-s201/static/css/main.f855e6bc.css",
+    "main.js": "/fsd-s201/static/js/main.1051d7b4.js",
+    "static/js/453.183908db.chunk.js": "/fsd-s201/static/js/453.183908db.chunk.js",
+    "static/media/logo.svg": "/fsd-s201/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/fsd-s201/index.html",
+    "main.f855e6bc.css.map": "/fsd-s201/static/css/main.f855e6bc.css.map",
+    "main.1051d7b4.js.map": "/fsd-s201/static/js/main.1051d7b4.js.map",
+    "453.183908db.chunk.js.map": "/fsd-s201/static/js/453.183908db.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.957f955b.js"
+    "static/js/main.1051d7b4.js"
   ]
 }
