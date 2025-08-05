@@ -2,7 +2,8 @@
   "name": "myapp",
   "version": "0.1.0",
   "private": true,
-  "homepages": "/fsd-s201",
+  "homepage": "https://lonika-09.github.io/FSD-201",
+
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.6.4",
